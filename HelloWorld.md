@@ -1,6 +1,6 @@
 ##This is a markdown file
 
-Here is some regulra text.
+Here is some regular text.
 
 *bullet one
 *bullet two
