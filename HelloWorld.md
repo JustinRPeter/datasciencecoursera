@@ -2,6 +2,6 @@
 
 Here is some regular text.
 
-*bullet one
-*bullet two
+* bullet one
+* bullet two
 
